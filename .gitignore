@@ -1,0 +1,67 @@
+# Config
+wp-config.php
+local-config.php
+
+# IDE
+.idea
+
+# OS Files
+.DS_Store
+cgi-bin
+
+# Server generated nonsense
+fantastico_fileslist.txt
+fantversion.php
+
+# Logs
+error_log
+wp-content/debug.log
+
+#Cache
+wp-content/cache
+wp-content/mmr
+wp-content/vrpcache
+wp-content/uploads/cache
+wp-content/plugins/widgetkit/cache
+
+# Temporary files
+tmp
+temp
+
+# Backups
+*.gz
+*.zip
+wp-content/updraft
+wp-content/uploads/pb_backupbuddy
+wp-content/uploads/backupbuddy_backups
+wp-content/managewp
+wp-snapshots
+
+# Generated Files
+sitemap.xml
+sitemap.xml.gz
+
+# Plugins
+wp-content/plugins/updraftplus
+
+#
+# Plugin Specific Sprawl
+#
+
+# Wordfence
+wp-content/plugins/wordfence
+wp-content/plugins/wordfence
+wp-content/wflogs
+wp-content/wfcache
+wordfence-waf.php
+
+# W3 Total Cache
+wp-content/plugins/w3-total-cache
+wp-content/w3tc-config
+wp-content/cachewp-content/w3tc-config
+wp-content/w3tc-config
+wp-content/w3tc/pgcache
+
+# WP Clone
+wp-content/plugins/wp-clone
+wp-content/uploads/wp-clone
